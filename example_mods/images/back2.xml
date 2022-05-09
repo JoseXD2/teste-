@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="back2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 9480000" x="5" y="5" width="769" height="450" frameX="-523" frameY="-138" frameWidth="1376" frameHeight="637"/>
+</TextureAtlas>

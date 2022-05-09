@@ -1,0 +1,4 @@
+Funny Note Move
+
+Value 1: 1 = dad, 2 = bf
+Value 2: 1 = left, 2 = right, 3 = back to center

@@ -1,0 +1,6 @@
+Value1 : Camera zoom
+(Btw for some reason the camera zoom needs an note hit happening at the same time to work, 
+probably because of the camera reloading on a note hit. Anyways just place one of the custom
+"nothing notes" for that to work)
+
+0.9 = Default Camera Zoom

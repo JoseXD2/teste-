@@ -1,0 +1,6 @@
+Funny Note Reverse
+
+Value 1: 1 = Reverse Up and Down, 2 = Reverse Left and Right, 
+3 = Reverse All, 4 = Back to Normal
+
+Value 2: 1 = Dad, 2 = BF, 3 = BOTH
